@@ -1,6 +1,14 @@
 # Hi, I´m Ernesto
 <p align="center">Student of AI engineering from IPN</p>
 
+## About me:
+- 🌐 Open to new Tecnologies, Always ready to learn new tools
+- 🤝 Ability to work in a team.
+- 🚀 Knowledge in aglie methodologies.
+- 💻 I'm in love with development.
+- 📏 Work with standarts.
+I'm looking to colaborate on any proyects with AI implementations
+
 ## Student with Experience in Academic Proyects:
 - SQL Databases
 - API REST
@@ -27,12 +35,4 @@
 - Sci kit learn
 - Pandas
 - Tensorflow
-
-## About me:
-- 🌐 Open to new Tecnologies, Always ready to learn new tools
-- 🤝 Ability to work in a team.
-- 🚀 Knowledge in aglie methodologies.
-- 💻 I'm in love with development.
-- 📏 Work with standarts.
-I'm looking to colaborate on any proyects with AI implementations
 
